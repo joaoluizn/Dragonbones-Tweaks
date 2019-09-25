@@ -38,4 +38,4 @@ The generated gif will be located at output folder with properly animation folde
 ## Thanks,
 
 Leave a start if usefull and feel free to fork it.
-Feel free to open a issue for any suggestion or problem.
+And also, open an issue for any suggestion or problem.
